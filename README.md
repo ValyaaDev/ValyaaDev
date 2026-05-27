@@ -93,7 +93,7 @@ const Valya = {
 
 <div align="center">
 
-### ⚡ “Code. Create. Innovate.”
+### ⚡ “Cc : REZA BUDI SAPUTRA”
 
 <img src="https://komarev.com/ghpvc/?username=ValyaaDev&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
