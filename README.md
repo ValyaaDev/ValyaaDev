@@ -79,7 +79,7 @@ const Valya = {
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/orngtapi_npc?igsh=cDB6ZG45Mzh1MWZu">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
