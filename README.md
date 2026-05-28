@@ -18,7 +18,7 @@
 
 ```javascript
 const Valya = {
-    location: "Indonesia 🇮🇩",
+    location: "Jakarta, Indonesia 🇮🇩",
     role: "Fullstack Web Developer",
     focus: "Frontend & Backend Development",
     currentlyLearning: ["React.js", "Node.js", "Modern UI/UX"],
