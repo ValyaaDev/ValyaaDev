@@ -39,38 +39,6 @@ const Valya = {
 
 ---
 
-# 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio Website | Modern responsive personal portfolio |
-| 🛒 POS Cashier System | Cashier management system using PHP & MySQL |
-| 📝 ToDo List App | Productivity app with clean UI |
-| 📊 Sorting Algorithm Analysis | Python implementation & performance analysis |
-
-</div>
-
----
-
-# 🛠 Tools & Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
