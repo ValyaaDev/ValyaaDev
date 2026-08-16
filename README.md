@@ -21,9 +21,6 @@ const Valya = {
     location: "Jakarta, Indonesia 🇮🇩",
     role: "Fullstack Web Developer",
     focus: "Frontend & Backend Development",
-    currentlyLearning: ["React.js", "Node.js", "Modern UI/UX"],
-    hobbies: ["Coding", "Design", "Gaming", "Music"],
-    funFact: "Turning coffee into code 💻"
 };
 ```
 
