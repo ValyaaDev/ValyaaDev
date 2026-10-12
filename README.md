@@ -17,7 +17,7 @@
 # 💫 About Me
 
 ```javascript
-const Valya = {
+const Reza = {
     location: "Jakarta, Indonesia 🇮🇩",
     role: "Fullstack Web Developer",
     focus: "Frontend & Backend Development",
